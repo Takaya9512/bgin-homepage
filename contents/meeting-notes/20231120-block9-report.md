@@ -1,5 +1,5 @@
 ---
-date: "2023 Nnov. 20"
+date: "2023 Nov. 20"
 title: "BGIN Block #9 Meeting Report"
 tag: ["block"]
 url: "/reports/BGINBlock#9MeetingrReport.pdf"
